@@ -38,7 +38,7 @@ const Section4 = () => {
       </div>
 
       <div className="image">
-        <img className="mail" src="/src/assets/img/mail.png" alt="mail" />
+        <img className="mail" src="/public/assets/img/mail.png" alt="mail" />
       </div>
     </section>
   );

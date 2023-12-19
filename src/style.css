@@ -1,19 +1,19 @@
 @font-face {
   font-family: Monograf;
-  src: url(/src/assets/fonts/Monograf\ Regular.ttf);
+  src: url(/public/assets/fonts/Monograf\ Regular.ttf);
 }
 @font-face {
   font-family: "Monograf Bold";
-  src: url(/src/assets/fonts/Monograf\ Bold.ttf);
+  src: url(/public/assets/fonts/Monograf\ Bold.ttf);
   font-weight: 900;
 }
 @font-face {
   font-family: "Monograf Text";
-  src: url(/src/assets/fonts/Monograf\ Text\ Regular.ttf);
+  src: url(/public/assets/fonts/Monograf\ Text\ Regular.ttf);
 }
 @font-face {
   font-family: Cavita;
-  src: url(/src/assets/fonts/Cavita-Regular.ttf);
+  src: url(/public/assets/fonts/Cavita-Regular.ttf);
 }
 
 :root {
@@ -191,7 +191,7 @@ ul a {
    */
 
 .second {
-  background-image: url(/src/assets/img/bg.png);
+  background-image: url(/public/assets/img/bg.png);
   background-size: cover;
   padding: 5em 3em;
 }
