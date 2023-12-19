@@ -36,7 +36,7 @@ const Section1 = () => {
           <ul>
             <li>
               <i className="fa-solid fa-arrow-right panah"></i>
-              <a href="mailto:ishal.2401@gmail.com"> EMAIL</a>
+              <a href="mailto:ishal.2401@gmail.com">EMAIL</a>
             </li>
             <li>
               <i className="fa-solid fa-arrow-right panah"></i>
