@@ -27,7 +27,7 @@ const Section3 = () => {
               Using native react. Lorem ipsum dolor sit amet, consectetur
               adipisicing elit. Amet, omnis!
             </p>
-            <a href="#">Page (not yet deployed)</a>
+            <a href="https://24-notes-react.vercel.app/">Page</a>
           </div>
           <div className="p3" data-aos="fade-right">
             <h2>Calculator</h2>
