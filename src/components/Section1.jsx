@@ -18,7 +18,7 @@ const Section1 = () => {
           </a>
         </div>
         <div className="myself-kanan" data-aos="zoom-in">
-          <img src="/public/assets/img/photo.png" alt="avatar" />
+          <img src="/assets/img/photo.png" alt="avatar" />
         </div>
       </div>
       <div className="bottom">
