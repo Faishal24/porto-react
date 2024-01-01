@@ -29,17 +29,15 @@ const Section3 = () => {
             </p>
             <a href="https://24-notes-react.vercel.app/">Page</a>
           </div>
-          <div className="p3" data-aos="fade-right">
-            <h2>Calculator</h2>
-            <p>
-              Using vanilla javascript and math library. Lorem ipsum dolor sit
-              amet consectetur, adipisicing elit. Ratione, iure cum enim minus
-              exercitationem provident!
-            </p>
-            <a href="https://faishal24.github.io/mini_project/calculator.html">
-              Page
-            </a>
-          </div>
+          <div class="p3" data-aos="fade-left">
+              <h2>Todo Apps</h2>
+              <p>
+                Using vanilla javascript. Lorem ipsum
+                dolor sit amet consectetur adipisicing elit. Nemo, commodi
+                doloremque quae veritatis iure inventore iusto optio ab.
+              </p>
+              <a href="https://faishal24.github.io/mini_project/todo/index.html">Page</a>
+            </div>
           <div className="p4" data-aos="fade-left">
             <h2>QR Code Generator</h2>
             <p>
