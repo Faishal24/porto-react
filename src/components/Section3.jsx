@@ -30,13 +30,13 @@ const Section3 = () => {
             <a href="https://24-notes-react.vercel.app/">Page</a>
           </div>
           <div class="p3" data-aos="fade-left">
-              <h2>Todo Apps</h2>
+              <h2>Task Management App</h2>
               <p>
-                Using vanilla javascript. Lorem ipsum
-                dolor sit amet consectetur adipisicing elit. Nemo, commodi
-                doloremque quae veritatis iure inventore iusto optio ab.
+                Fullstack app that build using ReactJs + ExpressJs.
+                This is school project app for manager that have features like management task for employee,
+                management employee, and see report.
               </p>
-              <a href="https://faishal24.github.io/mini_project/todo/index.html">Page</a>
+              <a href="https://taskmanagementfrontend-faishal24s-projects.vercel.app/login">Page</a>
             </div>
           <div className="p4" data-aos="fade-left">
             <h2>QR Code Generator</h2>
