@@ -18,7 +18,7 @@ const Section1 = () => {
           </a>
         </div>
         <div className="myself-kanan" data-aos="zoom-in">
-          <img src="/assets/img/photo.png" alt="avatar" />
+          <img src="https://placehold.co/600x400" alt="avatar" />
         </div>
       </div>
       <div className="bottom">
